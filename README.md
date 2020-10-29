@@ -5,7 +5,7 @@
 src="suftime/image/picture-of-suftime.png"
 raw=true
 alt="suftime | Simple Clock | GNU/Linux Distros"
-style="margin-right: 10px; border-radius: 30px;"
+style="margin-right: 10px;"
 />
 
 # Install on GNU/Linux Dirtros 
