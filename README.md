@@ -3,6 +3,8 @@
 
 <img src="https://github.com/sami2020pro/suftime/suftime/image/picture-of-suftime.png" />
 ![Alt text](https://github.com/sami2020pro/suftime/suftime/image/picture-of-suftime.png?raw=true "Title")
+![Screenshot](picture-of-suftime.png)
+
 
 # Install on GNU/Linux Dirtros 
 <b>Please Following Commands</b>
