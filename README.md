@@ -8,7 +8,7 @@ alt="suftime | Simple Clock | GNU/Linux Distros"
 style="margin-right: 10px;"
 />
 
-# Install on GNU/Linux Dirtros 
+# Install on GNU/Linux Distros 
 <b>Please Following Commands</b>
 
 `cd suftime/product`
