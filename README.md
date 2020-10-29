@@ -2,6 +2,7 @@
 <strong>Simple Clock</strong>
 
 <img src="https://github.com/sami2020pro/suftime/suftime/image/picture-of-suftime.png" />
+(/suftime/image/picture-of-suftime.png)
 
 # Install on GNU/Linux Dirtros 
 <b>Please Following Commands</b>
