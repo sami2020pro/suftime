@@ -4,8 +4,8 @@
 <img
 src="suftime/image/picture-of-suftime.png"
 raw=true
-alt="Subject Pronouns"
-style="margin-right: 10px;"
+alt="suftime | Simple Clock | GNU/Linux Distros"
+style="margin-right: 10px; border-radisu: 5px;"
 />
 
 # Install on GNU/Linux Dirtros 
