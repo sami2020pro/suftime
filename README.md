@@ -1,7 +1,12 @@
 # suftime
 <strong>Simple Clock</strong>
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+<img
+src="suftime/images/picture-of-suftime.png"
+raw=true
+alt="Subject Pronouns"
+style="margin-right: 10px;"
+/>
 
 # Install on GNU/Linux Dirtros 
 <b>Please Following Commands</b>
