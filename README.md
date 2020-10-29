@@ -2,7 +2,7 @@
 <strong>Simple Clock</strong>
 
 <img
-src="suftime/images/picture-of-suftime.png"
+src="suftime/image/picture-of-suftime.png"
 raw=true
 alt="Subject Pronouns"
 style="margin-right: 10px;"
