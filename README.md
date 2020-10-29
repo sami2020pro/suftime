@@ -1,5 +1,6 @@
 # suftime
 <strong>Simple Clock</strong>
+
 <img src="https://github.com/sami2020pro/suftime/suftime/image/picture-of-suftime.png" />
 
 # Install on GNU/Linux Dirtros 
