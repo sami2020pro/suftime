@@ -1,0 +1,12 @@
+Welcome to Suftime 
+
+Orders:
+    --local=true    Print Local Time 
+    --utc=true      Print UTC Time 
+
+    --local         Print Local Time 
+    --utc           Print UTC Time 
+
++-------------------------------------------+
++ Developed by Sami Ghasemi, Copyright 2020 +
++-------------------------------------------+
