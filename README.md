@@ -3,14 +3,17 @@
 
 # Install on GNU/Linux Dirtros 
 <b>Please Following Commands</b>
+
 `cd suftime/product`
 
 `sh install.sh`
 
 <b>Test Installation</b>
+
 `suftime`
 
 # Orders
+
 <p>suftime --local=true</p>
 <p>suftime --utc=true</p>
 
