@@ -21,10 +21,12 @@ style="margin-right: 10px;"
 
 # Orders
 
-<p>suftime --local=true</p>
-<p>suftime --utc=true</p>
-<p>suftime --version=true</p>
+<ul>
+  <li><p>suftime --local=true</p></li>
+  <li><p>suftime --utc=true</p></li>
+  <li><p>suftime --version=true</p></li>
 
-<p>suftime --local</p>
-<p>suftime --utc</p>
-<p>suftime --version</p>
+  <li><p>suftime --local</p></li>
+  <li><p>suftime --utc</p></li>
+  <li><p>suftime --version</p></li>
+</ul>
