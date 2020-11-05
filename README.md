@@ -1,16 +1,20 @@
 # suftime
 
 <div>
-<img
-src="https://img.shields.io/badge/language-golang-brightgreen"
-alt="coverage 100%"
-style="max-width:100%;"
-/>
-<img 
-src="https://img.shields.io/badge/License-GPLv3-brightgreen"
-alt="GPLv3 License"
-style="max-width:100%;"
-/>
+  <a href="">
+    <img
+    src="https://img.shields.io/badge/language-golang-brightgreen"
+    alt="coverage 100%"
+    style="max-width:100%;"
+    />
+  </a>
+  <a href="https://github.com/sami2020pro/suftime/blob/master/LICENSE">
+    <img 
+    src="https://img.shields.io/badge/License-GPLv3-brightgreen"
+    alt="GPLv3 License"
+    style="max-width:100%;"
+    />
+  </a>
 </div>
 
 <strong>Simple Clock</strong>
