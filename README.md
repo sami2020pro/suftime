@@ -23,6 +23,8 @@ style="margin-right: 10px;"
 
 <p>suftime --local=true</p>
 <p>suftime --utc=true</p>
+<p>suftime --version=true</p>
 
 <p>suftime --local</p>
 <p>suftime --utc</p>
+<p>suftime --version</p>
