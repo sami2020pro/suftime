@@ -1,11 +1,17 @@
 # suftime
-<!--<img src="https://camo.githubusercontent.com/fa4ad66b4d60bc981ef614015d1a1905c3fe8a20daab845c18a5338c701db049/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f656e657363616b69722f656d6f6a69" alt="MIT License" data-canonical-src="https://img.shields.io/github/license/enescakir/emoji" style="max-width:100%;">-->
 
+<div>
+<img
+src="https://img.shields.io/badge/coverage-100%25-brightgreen"
+alt="coverage 100%"
+style="max-width:100%;"
+/>
 <img 
 src="https://img.shields.io/badge/License-GPLv3-brightgreen"
 alt="GPLv3 License"
 style="max-width:100%;"
 />
+</div>
 
 <strong>Simple Clock</strong>
 
