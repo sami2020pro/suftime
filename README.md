@@ -1,7 +1,7 @@
 # suftime
 
 <div>
-  <a href="">
+  <a href="https://golang.org/">
     <img
     src="https://img.shields.io/badge/language-golang-brightgreen"
     alt="coverage 100%"
