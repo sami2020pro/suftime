@@ -2,6 +2,7 @@ package main
 
 import (
 	f "flag"
+	"fmt"
 	io "io/ioutil"
 	t "time"
 
@@ -12,8 +13,13 @@ func main() {
 	// Help File Color
 	helpFileColor := c.New(c.FgWhite)
 
-	// Read Help File
-	dataHelpFile, _ := io.ReadFile("/etc/suftime/help.txt")
+	// Read Help File and Version File
+	dataHelpFile, err := io.ReadFile("/etc/suftime/help.txt")
+	dataVersionFile, err := io.ReadFile("/etc/suftime/version.txt")
+
+	if err != nil {
+		fmt.Printf("%s", err)
+	}
 
 	// UTC Time
 	utc := t.Now().UTC()
@@ -27,6 +33,9 @@ func main() {
 	// Local Flag
 	localPattern := f.Bool("local", false, "local flag")
 
+	// Version Flag
+	versionPattern := f.Bool("version", false, "version flag")
+
 	// Parse Flags
 	f.Parse()
 
@@ -39,6 +48,8 @@ func main() {
 		blueBackground.Println(" Time Location:", time.Location(), "\n Time:", time.String()[10:19], "     ") // [10:30]
 	} else if *utcPattern {
 		blueBackground.Println("", utc, "")
+	} else if *versionPattern {
+		blueBackground.Println(" suftime", string(dataVersionFile), "")
 	} else {
 		helpFileColor.Println(string(dataHelpFile))
 	}

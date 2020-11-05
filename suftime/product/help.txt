@@ -9,9 +9,11 @@ Welcome to Suftime
 Orders:
     --local=true    Print Local Time 
     --utc=true      Print UTC Time 
+    --version=true  Print The Suftime Version
 
     --local         Print Local Time 
     --utc           Print UTC Time 
+    --version       Print The Suftime Version
 
 +-------------------------------------------+
 + Developed by Sami Ghasemi, Copyright 2020 +
