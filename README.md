@@ -2,7 +2,7 @@
 
 <div>
 <img
-src="https://img.shields.io/badge/language-golang25-brightgreen"
+src="https://img.shields.io/badge/language-golang-brightgreen"
 alt="coverage 100%"
 style="max-width:100%;"
 />
