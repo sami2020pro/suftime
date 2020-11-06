@@ -1,7 +1,7 @@
 # suftime
 
 <div>
-  <a href="">
+  <a href="https://github.com/sami2020pro/suftime/blob/main/suftime/product/version.txt">
     <img
     src="https://img.shields.io/badge/version-0.2.0-brightgreen"
     alt="coverage 100%"
