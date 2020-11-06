@@ -37,9 +37,9 @@ style="margin-right: 10px;"
 <b>Please Following Commands</b>
 
 ```html
-<p>cd suftime/product
+cd suftime/product
 
-sh install.sh</p>
+sh install.sh
 ```
 
 <b>Test Installation</b>
