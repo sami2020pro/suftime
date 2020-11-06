@@ -1,6 +1,13 @@
 # suftime
 
 <div>
+  <a href="">
+    <img
+    src="https://img.shields.io/badge/version-0.2.0-brightgreen"
+    alt="coverage 100%"
+    style="max-width:100%;"
+    />
+  </a>
   <a href="https://golang.org/">
     <img
     src="https://img.shields.io/badge/language-golang-brightgreen"
