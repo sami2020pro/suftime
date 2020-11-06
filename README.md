@@ -36,13 +36,17 @@ style="margin-right: 10px;"
 # Install on GNU/Linux Distros 
 <b>Please Following Commands</b>
 
-`cd suftime/product`
+```html
+<p>cd suftime/product
 
-`sh install.sh`
+sh install.sh</p>
+```
 
 <b>Test Installation</b>
 
-`suftime`
+```html
+suftime
+```
 
 # Orders
 
