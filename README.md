@@ -3,14 +3,14 @@
 <div>
   <a href="https://github.com/sami2020pro/suftime/blob/main/suftime/product/version.txt">
     <img
-    src="https://img.shields.io/badge/version-0.2.0-brightgreen"
+    src="https://img.shields.io/badge/Version-0.2.0-brightgreen"
     alt="suftime | version 0.2.0"
     style="max-width:100%;"
     />
   </a>
   <a href="https://golang.org/">
     <img
-    src="https://img.shields.io/badge/language-golang-brightgreen"
+    src="https://img.shields.io/badge/Language-Golang-brightgreen"
     alt="suftime | language golang"
     style="max-width:100%;"
     />
