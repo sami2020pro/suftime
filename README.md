@@ -1,6 +1,11 @@
 # suftime
 
 <div>
+  <img
+    src="https://img.shields.io/badge/Build-Passing-blue"
+    alt="suftime | version 0.2.0"
+    style="max-width:100%;"
+  />
   <a href="https://github.com/sami2020pro/suftime/blob/main/suftime/product/version.txt">
     <img
     src="https://img.shields.io/badge/Version-0.2.0-brightgreen"
