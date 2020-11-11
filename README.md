@@ -41,7 +41,7 @@ style="margin-right: 10px;"
 # Install on GNU/Linux Distros 
 <b>Please Following Commands</b>
 
-```html
+```shell
 cd suftime/product
 
 sh install.sh
@@ -49,7 +49,7 @@ sh install.sh
 
 <b>Test Installation</b>
 
-```html
+```shell
 suftime
 ```
 
