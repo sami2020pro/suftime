@@ -1,6 +1,6 @@
 sudo chmod +x suftime 
-sudo mkdir /etc/suftime 
+sudo mkdir /etc/suftime
 sudo cp help.txt /etc/suftime/
 sudo cp version.txt /etc/suftime/
-sudo cp suftime /bin
+sudo cp suftime /usr/local/bin
 echo "Suftime Installed"
