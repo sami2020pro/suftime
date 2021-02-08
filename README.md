@@ -8,23 +8,23 @@
   />
   <a href="https://github.com/sami2020pro/suftime/blob/main/suftime/product/version.txt">
     <img
-    src="https://img.shields.io/badge/Version-0.2.0-brightgreen"
-    alt="suftime | version 0.2.0"
-    style="max-width:100%;"
+      src="https://img.shields.io/badge/Version-0.2.0-brightgreen"
+      alt="suftime | version 0.2.0"
+      style="max-width:100%;"
     />
   </a>
   <a href="https://golang.org/">
     <img
-    src="https://img.shields.io/badge/Language-Golang-brightgreen"
-    alt="suftime | language golang"
-    style="max-width:100%;"
+      src="https://img.shields.io/badge/Language-Golang-brightgreen"
+      alt="suftime | language golang"
+      style="max-width:100%;"
     />
   </a>
   <a href="https://github.com/sami2020pro/suftime/blob/master/LICENSE">
     <img 
-    src="https://img.shields.io/badge/License-GPLv3-brightgreen"
-    alt="suftime | GPLv3 License"
-    style="max-width:100%;"
+      src="https://img.shields.io/badge/License-GPLv3-brightgreen"
+      alt="suftime | GPLv3 License"
+      style="max-width:100%;"
     />
   </a>
 </div>
@@ -32,19 +32,21 @@
 <strong>Simple Clock</strong>
 
 <img
-src="suftime/image/picture-of-suftime.png"
-raw=true
-alt="suftime | Simple Clock | GNU/Linux Distros"
-style="margin-right: 10px;"
+  src="suftime/data/suftime.png"
+  raw=true
+  alt="suftime | Simple Clock | GNU/Linux Distros"
+  style="margin-right: 10px;"
 />
 
 # Install on GNU/Linux Distros 
 <b>Please Following Commands</b>
 
 ```shell
-cd suftime/product
+make
 
-sh install.sh
+make compile
+
+sudo make install
 ```
 
 <b>Test Installation</b>
