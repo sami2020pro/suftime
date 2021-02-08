@@ -13,7 +13,7 @@
   />
   <a href="https://golang.org/">
     <img
-      src="https://img.shields.io/badge/Language-Golang-brightgreen"
+      src="https://img.shields.io/badge/Language-Go-brightgreen"
       alt="suftime | language golang"
       style="max-width:100%;"
     />
