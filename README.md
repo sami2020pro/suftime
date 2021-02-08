@@ -18,7 +18,7 @@
       style="max-width:100%;"
     />
   </a>
-  <a href="https://github.com/sami2020pro/blob/main/LICENSE">
+  <a href="https://github.com/sami2020pro/suftime/blob/main/LICENSE">
     <img 
       src="https://img.shields.io/badge/License-GPLv3-brightgreen"
       alt="suftime | GPLv3 License"
