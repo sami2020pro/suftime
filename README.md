@@ -3,12 +3,12 @@
 <div>
   <img
     src="https://img.shields.io/badge/Build-Passed-blue"
-    alt="suftime | version 0.2.0"
+    alt="suftime | version v0.2.4"
     style="max-width:100%;"
   />
   <img
-    src="https://img.shields.io/badge/Version-0.2.0-brightgreen"
-    alt="suftime | version 0.2.0"
+    src="https://img.shields.io/badge/Version-v0.2.4-brightgreen"
+    alt="suftime | version v0.2.4"
     style="max-width:100%;"
   />
   <a href="https://golang.org/">
