@@ -6,13 +6,11 @@
     alt="suftime | version 0.2.0"
     style="max-width:100%;"
   />
-  <a href="https://github.com/sami2020pro/suftime/blob/main/suftime/product/version.txt">
-    <img
-      src="https://img.shields.io/badge/Version-0.2.0-brightgreen"
-      alt="suftime | version 0.2.0"
-      style="max-width:100%;"
-    />
-  </a>
+  <img
+    src="https://img.shields.io/badge/Version-0.2.0-brightgreen"
+    alt="suftime | version 0.2.0"
+    style="max-width:100%;"
+  />
   <a href="https://golang.org/">
     <img
       src="https://img.shields.io/badge/Language-Golang-brightgreen"
@@ -20,7 +18,7 @@
       style="max-width:100%;"
     />
   </a>
-  <a href="https://github.com/sami2020pro/suftime/blob/master/LICENSE">
+  <a href="https://github.com/sami2020pro/blob/main/LICENSE">
     <img 
       src="https://img.shields.io/badge/License-GPLv3-brightgreen"
       alt="suftime | GPLv3 License"
@@ -32,7 +30,7 @@
 <strong>Simple Clock</strong>
 
 <img
-  src="suftime/data/suftime.png"
+  src="data/suftime.png"
   raw=true
   alt="suftime | Simple Clock | GNU/Linux Distros"
   style="margin-right: 10px;"
