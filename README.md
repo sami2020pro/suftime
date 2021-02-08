@@ -2,7 +2,7 @@
 
 <div>
   <img
-    src="https://img.shields.io/badge/Build-Passing-blue"
+    src="https://img.shields.io/badge/Build-Passed-blue"
     alt="suftime | version 0.2.0"
     style="max-width:100%;"
   />
